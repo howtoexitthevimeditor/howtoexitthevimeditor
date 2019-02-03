@@ -1,5 +1,5 @@
-
-dy {
+/* tinysite.css basked on minfwk.css but oriented more for commercial use */
+body {
     font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
     text-align: left;
     font-weight: 600;
@@ -404,6 +404,5 @@ ul li:before {
         margin-bottom: 2.5em
     }
 }
-
 
 
