@@ -4,5 +4,5 @@
 * Press `Esc` `:` `w` `q` `Enter`
 
 ## To quit Vim without saving changes:
-* Press `Esc` `:` `w` `q` `!` `Enter`
+* Press `Esc` `:` `q` `!` `Enter`
 
